@@ -1,2 +1,2 @@
-# website
-My persenal website
+# My Website
+My persenal website made with react + chakra-ui!
